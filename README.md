@@ -1,2 +1,2 @@
 # Project To Do List
-## Todo List with DOM
+## To Do List with DOM
