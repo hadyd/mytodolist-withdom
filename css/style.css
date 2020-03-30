@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+.jumbroton {
+    font-size: 20px;
+    padding: 20px;
+    background-color: #8e44ad;
+    text-align: center;
+    color: white;
+}
+
+main {
+    padding: 20px;
+    overflow: auto;
+    float: center;
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
+body {
+    font-family: 'Quicksand',sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    box-shadow: 8px 8px 14px 14px rgba(5, 5, 5, 0.2);
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+ * {
+	box-sizing: border-box;
+  }
+  
+ul {
+	margin: 0;
+	padding: 0;
+}
+  
+ul li {
+	cursor: pointer;
+	position: relative;
+	padding: 12px 8px 12px 40px;
+	background: #eee;
+	font-size: 18px;
+}
+  
+ul li:nth-child(odd) {
+	background: #f9f9f9;
+}
+  
+ul li:hover {
+	background: #ddd;
+}
+
+  #myUL li {
+	list-style-type: none;
+}
+  
+.content {
+	background-color: #9b59b6;
+	padding: 30px 40px;
+	color: white;
+}
+
+.content:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+  
+input {
+	margin: 0;
+	border: none;
+	border-radius: 0;
+	width: 75%;
+	padding: 10px;
+	float: left;
+	font-size: 16px;
+}
+
+.addBtn {
+	padding: 11.5px;
+	width: 25%;
+	background: #d9d9d9;
+	color: #2c3e50;
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	transition: 0.3s;
+	border-radius: 0;
+}
+  
+.addBtn:hover {
+	background-color: #bbb;
+}
