@@ -1,3 +1,8 @@
 # Project To Do List
 ## To Do List with DOM
-[Netlify](https://todolistprojecthadyd.netlify.com/)
+## Screenshot
+![Gambar](screnshoot/todolist.png)
+
+## Netlify
+[Link Netlify](https://todolistprojecthadyd.netlify.com/)
+
